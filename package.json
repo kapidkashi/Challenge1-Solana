@@ -31,6 +31,7 @@
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.7",
     "node-gyp-build": "^4.5.0",
+    "prompt-sync": "^4.2.0",
     "regenerator-runtime": "^0.13.9",
     "rpc-websockets": "^7.5.0",
     "safe-buffer": "^5.2.1",
